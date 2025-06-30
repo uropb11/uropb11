@@ -28,7 +28,7 @@ Retainer: Monthly access to my brain to keep your team from imploding again.
 
 📨 Contact
 
-Not accepting randos. If we've had a weird conversation or someone vouches for you, send a voice note or an encrypted psychic scream to uropb1@hotmail.com.
+Not accepting randos. If we've had a weird conversation or someone vouches for you, send a note or an encrypted psychic scream to uropb1@hotmail.com.
 
 🧾 Business Model
 
