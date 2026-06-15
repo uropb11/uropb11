@@ -1,43 +1,53 @@
-No, You're Doing It Wrong Consulting
+# Igor Shalbarov
 
-🔍 What I Do
+I build practical systems for messy real-world environments.
 
-I help teams and organizations fix things they can't name. Invisible dysfunction? Chronic ambiguity? Endless meetings that solve nothing? Yeah. I see that. I fix that.
+My background spans field ICT, systems architecture, knowledge management, automation, AI-assisted workflows, and operational design. Most of my work starts where tidy assumptions stop being useful: weak connectivity, fragmented ownership, incomplete documentation, changing requirements, and people improvising under pressure.
 
-No slides. No fluff. Just brutal clarity and emotional tact.
+## What I work on
 
-🚧 Client Filter
+* **Local-first tools** for planning, knowledge capture, and operational work
+* **AI and retrieval systems** using vector search, graphs, reranking, and conversational interfaces
+* **Infrastructure and resilience testing** for unreliable networks and constrained environments
+* **Workflow and service design** across technical and organizational boundaries
+* **Small utilities** that remove unnecessary work instead of moving it somewhere else
 
-You’re self-aware enough to not need a babysitter
+## Current projects
 
-You’re ready to pay for truth, not babysitting
+* **Quickmark** — a document-to-Markdown conversion service
+* **Distortionist** — a Docker-first network impairment proxy for simulating latency, loss, bandwidth limits, and unstable links
+* **Lab Planner** — a local-first planning system for complex advisory and delivery work
+* **Second Memory** — a graph-based conversational memory and retrieval system
+* **Memory Brokers** — a board game about competing networks shaping cultural memory
 
-You don’t want another reorg without therapy
+## How I work
 
-If you think I’m expensive, wait until you see the cost of denial
+I prototype quickly, test against real constraints, and document the decisions that matter.
 
-📦 Offerings
+I am comfortable moving between backend, frontend, infrastructure, product framing, and operational process. I tend to connect domains that are usually handled separately, which is useful when the actual problem does not respect department boundaries.
 
-The Clarity Blitz: 90-min diagnostic. I break it down fast.
+Things I care about:
 
-Shadow Mapping: 1-week teardown of your org’s internal contradictions.
+* useful over impressive
+* privacy-aware and local-first where practical
+* explicit ownership and clear interfaces
+* systems that fail predictably
+* documentation that survives handover
+* automation that removes work rather than disguising it
+* evidence before scale
 
-Narrative Therapy for Systems: I fix your org story. That’s it.
+## Tools I use
 
-Retainer: Monthly access to my brain to keep your team from imploding again.
+`Python` · `FastAPI` · `Go` · `TypeScript` · `React` · `Vite` · `Docker` · `SQLite` · `PostgreSQL` · `Neo4j` · `REST` · `WebSockets` · `RAG` · `vector search` · `knowledge graphs`
 
-📨 Contact
+I also work comfortably with cloud platforms, self-hosted systems, networking, and the less glamorous parts of making software survive contact with reality.
 
-Not accepting randos. If we've had a weird conversation or someone vouches for you, send a note or an encrypted psychic scream to uropb1@hotmail.com.
+## Elsewhere
 
-🧾 Business Model
+I have been credited in **Arcs**, **John Company**, and **Molly House**.
 
-Payments via Stripe or “Barter for Secrets”
+Outside software, I design board games, paint miniatures, repair things that were not supposed to remain useful this long, and keep a 1997 Bang & Olufsen system in active service.
 
-Plain-English contracts
+---
 
-No decks unless I’m mocking someone else’s
-
-Results are real. Everything else is optional.
-
-This isn’t a consultancy. It’s a defense mechanism with invoices.
+Most of my repositories are experiments, working tools, or attempts to make complicated systems slightly less ridiculous.
